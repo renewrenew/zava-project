@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
  
 public class twelve {
    public static void main(String[] args) {
